@@ -41,7 +41,7 @@
     "lodash": "^4.17.4",
     "log-rotate": "^0.2.7",
     "log4js": "^2.4.1",
-    "lokijs": "^1.4.3",
+    "lokijs": "^1.5.12",
     "minimongo-standalone": "^1.1.0-3",
     "node-fetch": "^1.7.3",
     "node-unzip-2": "^0.2.7",
